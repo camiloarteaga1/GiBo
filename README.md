@@ -2,9 +2,9 @@
 Game Board (GiBo)
 
 ## Equipo:
-- [Camilo Álvarez Muñoz.](https://github.com/camiloam20) @github/camiloam20
-- [Simón Sánchez Rúa.](https://github.com/EasierMonk95) @github/easiermonk95
-- [Juan Camilo Arteaga Ibarra.](https://github.com/camiloarteaga1) @github/camiloarteaga1
+- [Camilo Álvarez Muñoz.](https://github.com/camiloam20)
+- [Simón Sánchez Rúa.](https://github.com/EasierMonk95)
+- [Juan Camilo Arteaga Ibarra.](https://github.com/camiloarteaga1)
 
 ## Descripción:
 Este proyecto surge a partir del concepto de los juegos de mesa, con el objetivo de transformar la experiencia de jugar varios juegos de mesa físicos en una sola "caja" digital versátil. La idea es crear una caja de juegos de mesa electrónica que ofrezca una amplia variedad de juegos en formato digital, eliminando la necesidad de tener múltiples juegos de mesa físicos.
