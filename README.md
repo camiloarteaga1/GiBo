@@ -11,11 +11,12 @@ Este proyecto surge a partir del concepto de los juegos de mesa, con el objetivo
 
 Esta caja de juegos de mesa electrónica se concibe como una solución accesible y compacta, diseñada para partidas de dos jugadores. Los juegos de mesa disponibles serán triqui (Tic-tac-toe), ahorcadito (Hangman) y conecta 4 (Connect-4);
 
+
 - **Triqui:** el juego podrá ser jugado por dos jugadores a la vez en el modo multijugador, donde cada uno toma su turno para poner su "X" o "O" en la casilla que lo desee, gana el jugador que completa tres de sus símbolos representantes en raya. Después de que todas las casillas hayan sido utilizadas se preguntará si se desea continuar o salir al menú principal.
 
-  - Para el modo de un jugador, el jugador tomará turnos con la máquina para la elección de sus casillas, la máquina elegirá teniendo en cuenta un algoritmo prediseñado para que tenga en cuenta las posibilidades a partir de los espacios disponibles y los que están siendo utilizados.
-  
-  - Para el multijugador, será como lo es tradicionalmente, turno a turno eligiendo las casillas en cada caso en la que se desea realizar la marcación.
+    - Para el modo de un jugador, el jugador tomará turnos con la máquina para la elección de sus casillas, la máquina elegirá teniendo en cuenta un algoritmo prediseñado para que tenga en cuenta las posibilidades a partir de los espacios disponibles y los que están siendo utilizados.
+    
+    - Para el multijugador, será como lo es tradicionalmente, turno a turno eligiendo las casillas en cada caso en la que se desea realizar la marcación.
 
 - **Ahorcadito:** el juego tradicional ahorcadito que consta de una palabra formada por una cantidad de letras que deben ser adivinadas por los jugadores o el jugador. A partir de un repositorio de palabras que tendrá el algoritmo, se mostrarán las líneas de cada uno de los caracteres con los que está formada la palabra, revelando en su respectivo espacio el o los caracteres que han sido adivinados, y eliminando de las opciones los que ya han sido utilizados. En caso de equivocarse se mostrará en pantalla un avance del dibujo del personaje que caracteriza al juego "Hangman" y se eliminará el caracter que causó el error. Una vez acabe el juego, se preguntará si se desea continuar o volver a la pantalla principal.
 
