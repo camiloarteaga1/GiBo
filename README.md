@@ -11,7 +11,7 @@ Este proyecto surge a partir del concepto de los juegos de mesa, con el objetivo
 
 Esta caja de juegos de mesa electrónica se concibe como una solución accesible y compacta, diseñada para partidas de dos jugadores. Los juegos de mesa disponibles serán triqui (Tic-tac-toe), ahorcadito (Hangman) y conecta 4 (Connect-4);
 
-**Triqui:** el juego podrá ser jugado por dos jugadores a la vez en el modo multijugador, donde cada uno toma su turno para poner su "X" o "O" en la casilla que lo desee, gana el jugador que completa tres de sus símbolos representantes en raya. Después de que todas las casillas hayan sido utilizadas se preguntará si se desea continuar o salir al menú principal.
+- **Triqui:** el juego podrá ser jugado por dos jugadores a la vez en el modo multijugador, donde cada uno toma su turno para poner su "X" o "O" en la casilla que lo desee, gana el jugador que completa tres de sus símbolos representantes en raya. Después de que todas las casillas hayan sido utilizadas se preguntará si se desea continuar o salir al menú principal.
 
   - Para el modo de un jugador, el jugador tomará turnos con la máquina para la elección de sus casillas, la máquina elegirá teniendo en cuenta un algoritmo prediseñado para que tenga en cuenta las posibilidades a partir de los espacios disponibles y los que están siendo utilizados.
   
