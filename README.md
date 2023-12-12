@@ -105,13 +105,13 @@ Las funciones de los integrantes del grupo son:
 
 El repositorio está dividido por ramas:
 
-	- **Documentos:** es la rama en la que se realizan todos los cambios referentes a la documentación, posteo de actividades, cambios de cronogramas, bitácoras y de más.
-	- **Menú:** es la que hace referencia al desarrollo del código que cumplirá con la implementación de las funciones del menú principal de la consola.
-	- **Pantalla:** una rama que contendrá todo lo referente a la pantalla en cuanto a su desarrollo en código de la librería que permitirá su integración y funcionamiento con la Raspberry Pi Pico W.
-	- **Controles:** encargada de la librería que permite el funcionamiento de los botones para realizar las acciones asociadas a cada uno.
-	- **Botón menú:** es la rama en la cual se realizan las funciones para la interrupción de los juegos y el cuadro de diálogo que permite volver a la pantalla principal.
-	- **Juegos:** contiene cada una de las librerías de los juegos desarrollados.
-		- Conecta 4 (Connect-4).
-		- Triqui (Tic-Tac-Toe).
-		- Ahorcadito (Hangaman).
-	- **Main:** contiene toda la integración de cada una de las ramas y el software desarrollado en conjunto.
+- **Documentos:** es la rama en la que se realizan todos los cambios referentes a la documentación, posteo de actividades, cambios de cronogramas, bitácoras y de más.
+- **Menú:** es la que hace referencia al desarrollo del código que cumplirá con la implementación de las funciones del menú principal de la consola.
+- **Pantalla:** una rama que contendrá todo lo referente a la pantalla en cuanto a su desarrollo en código de la librería que permitirá su integración y funcionamiento con la Raspberry Pi Pico W.
+- **Controles:** encargada de la librería que permite el funcionamiento de los botones para realizar las acciones asociadas a cada uno.
+- **Botón menú:** es la rama en la cual se realizan las funciones para la interrupción de los juegos y el cuadro de diálogo que permite volver a la pantalla principal.
+- **Juegos:** contiene cada una de las librerías de los juegos desarrollados.
+	- Conecta 4 (Connect-4).
+	- Triqui (Tic-Tac-Toe).
+	- Ahorcadito (Hangaman).
+- **Main:** contiene toda la integración de cada una de las ramas y el software desarrollado en conjunto.
