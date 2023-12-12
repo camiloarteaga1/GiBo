@@ -63,3 +63,55 @@ Esto es una lista de componentes que serán utilizados o posiblemente utilizados
 El total (en pesos colombianos) de los componentes (suponiendo una compra de cada uno de los componentes) es de 252.000. Es posible que el precio final sea diferente, teniendo en cuenta la aparición de problemas como lo son un componente que se daña o que no funciona correctamente.
 
 Los costos serán cubiertos por el mismo poder adquisitivo de los estudiantes (algunos de los componentes se espera poder ser obtenidos del reciclaje de otros dispositivos no funcionales).
+
+##Informe de avance:
+
+###Funciones de los integrantes:
+
+Las funciones de los integrantes del grupo son:
+
+- Simón Sánchez Rúa:
+	- **Función general:** Logística, es decir, la obtención de los elementos, manejo de costos y compras.
+	- **Funciones específicas:**
+		- Conexión de la pantalla al microcontrolador.
+		- Programación de la librería utilizada para la pantalla del dispositivo.
+		- Obtención de la alimentación del dispositivo.
+		- Programación y desarrollo del juego "Triqui".
+
+- Camilo Álvarez Múñoz:
+	- **Función general:** Ensamblaje y diseño estético del dispositivo.
+	- **Funciones específicas:**
+		- Diseño de la cubierta del dispositivo.
+		- Programación de la libería utilizada como menú del dispositivo.
+		- Programación y desarrollo del juego "Conecta 4".
+
+- Juan Camilo Arteaga Ibarra:
+	- **Función general:** Líder del equipo, coordinación y asignación de actividades.
+	- **Funciones específicas:** 
+		- Diseño y montaje de los circuitos utilizados para los controles.
+		- Programación de la librería para la utilización de los controles.
+		- Realización de la cubierta del dispositivo.
+		- Programación y desarrollo del juego "Ahorcadito".
+
+### Ver archivo Cronograma
+
+### Ver diseño de cirucitos analógicos
+
+### Ver archivo del diagrama de bloques de las conexiones de hardware.
+
+### Ver archivo del funcionamiento del programa principal.
+
+### Manejo del repositorio
+
+El repositorio está dividido por ramas:
+
+	- Documentos: es la rama en la que se realizan todos los cambios referentes a la documentación, posteo de 	actividades, cambios de cronogramas, bitácoras y de más.
+	- Menú: es la que hace referencia al desarrollo del código que cumplirá con la implementación de las 	funciones del menú principal de la consola.
+	- Pantalla: una rama que contendrá todo lo referente a la pantalla en cuanto a su desarrollo en código de la 	librería que permitirá su integración y funcionamiento con la Raspberry Pi Pico W.
+	- Controles: encargada de la librería que permite el funcionamiento de los botones para realizar las acciones 	asociadas a cada uno.
+	- Botón menú: es la rama en la cual se realizan las funciones para la interrupción de los juegos y el cuadro 	de diálogo que permite volver a la pantalla principal.
+	- Juegos: contiene cada una de las librerías de los juegos desarrollados.
+		- Conecta 4 (Connect-4).
+		- Triqui (Tic-Tac-Toe).
+		- Ahorcadito (Hangaman).
+	- Main: contiene toda la integración de cada una de las ramas y el software desarrollado en conjunto.
